@@ -5,4 +5,4 @@ Algorithms include - bubble sort, merge sort, quick sort, selection sort, insert
 
 The source code can be downloaded by using:
   git init
-  git pull 
+  git pull https://github.com/AloysiusAmbe/Sorting-Visualizer.git
