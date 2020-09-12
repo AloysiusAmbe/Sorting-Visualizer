@@ -1,7 +1,7 @@
 # Sorting-Visualizer
 
-Visualizes various sorting algorithms in a gui.
-Algorithms include - bubble sort, merge sort, quick sort, selection sort, insertion sort, and heap sort.
+Various sorting algorithms are visualized in a GUI.
+Visualized algorithms include - bubble sort, merge sort, quick sort, selection sort, insertion sort, and heap sort.
 
 The source code can be downloaded by using:
   git init
