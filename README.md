@@ -10,4 +10,4 @@ Visualized algorithms include:
 6. Heap sort.
 
 The source code can be downloaded by intializing a git repository and using:
-  ##### git clone https://github.com/AloysiusAmbe/Sorting-Visualizer.git
+  - git clone https://github.com/AloysiusAmbe/Sorting-Visualizer.git
